@@ -1,0 +1,6 @@
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\bin\Debug\ConsoleApplication.exe.config
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\bin\Debug\ConsoleApplication.exe
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\bin\Debug\ConsoleApplication.pdb
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\obj\x86\Debug\Blob1.csprojResolveAssemblyReference.cache
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\obj\x86\Debug\ConsoleApplication.pdb

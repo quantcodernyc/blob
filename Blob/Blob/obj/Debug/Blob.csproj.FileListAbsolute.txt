@@ -1,0 +1,6 @@
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\Blob\bin\Debug\Blob.exe.config
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\Blob\bin\Debug\Blob.exe
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\Blob\bin\Debug\Blob.pdb
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\Blob\obj\Debug\Blob.exe
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\Blob\obj\Debug\Blob.pdb
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\Blob\Blob\obj\Debug\Blob.csprojResolveAssemblyReference.cache
